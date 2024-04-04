@@ -1,6 +1,7 @@
 ## nginx docker 
 ___
 **Installing requirements.txt**
+
     pip install -r requirements.txt
 
 ___
