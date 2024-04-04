@@ -1,5 +1,9 @@
 ## nginx docker 
 ___
+**Installing requirements.txt**
+    pip install -r requirements.txt
+
+___
 **Docker compose build  and up**
 
     docker-compose up -d --build
