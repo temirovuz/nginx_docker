@@ -13,4 +13,4 @@ ___
 
     docker-compose -f docker-compose.prod.yaml up -d --build
 ___
-### Thank you
+### Thank you :)
